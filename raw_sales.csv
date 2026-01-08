@@ -1,0 +1,51 @@
+order_id,date,product,category,quantity,price
+1,01-01-2024,Laptop,Tech,1,800
+2,02-01-2024,Mouse,Tech,2,20
+3,03-01-2024,Keyboard,Tech,3,30
+4,04-01-2024,Monitor,Tech,4,250
+5,05-01-2024,Printer,Tech,5,200
+6,06-01-2024,USB Cable,Tech,1,10
+7,07-01-2024,Headphones,Tech,2,100
+8,08-01-2024,Webcam,Tech,3,80
+9,09-01-2024,Power Bank,Tech,4,50
+10,10-01-2024,Router,Tech,5,120
+11,11-01-2024,Smartphone,Tech,1,600
+12,12-01-2024,Tablet,Tech,2,400
+13,13-01-2024,Smartwatch,Tech,3,200
+14,14-01-2024,Charger,Tech,4,25
+15,15-01-2024,External Hard Drive,Tech,5,150
+16,16-01-2024,Chair,Furniture,1,120
+17,17-01-2024,Table,Furniture,2,200
+18,18-01-2024,Sofa,Furniture,3,600
+19,19-01-2024,Bed,Furniture,4,900
+20,20-01-2024,Bookshelf,Furniture,5,150
+21,21-01-2024,Office Desk,Furniture,1,300
+22,22-01-2024,Wardrobe,Furniture,2,800
+23,23-01-2024,Stool,Furniture,3,60
+24,24-01-2024,Dining Chair,Furniture,4,140
+25,25-01-2024,Coffee Table,Furniture,5,180
+26,26-01-2024,Notebook,Stationery,1,5
+27,27-01-2024,Pen,Stationery,2,2
+28,28-01-2024,Pencil,Stationery,3,1
+29,29-01-2024,Marker,Stationery,4,3
+30,30-01-2024,Eraser,Stationery,5,1
+31,31-01-2024,Stapler,Stationery,1,10
+32,01-02-2024,Highlighter,Stationery,2,4
+33,02-02-2024,Folder,Stationery,3,3
+34,03-02-2024,Calculator,Stationery,4,20
+35,04-02-2024,Diary,Stationery,5,8
+36,05-02-2024,Backpack,Accessories,1,50
+37,06-02-2024,Wallet,Accessories,2,40
+38,07-02-2024,Belt,Accessories,3,25
+39,08-02-2024,Sunglasses,Accessories,4,70
+40,09-02-2024,Watch,Accessories,5,150
+41,10-02-2024,Shoes,Clothing,1,20
+42,11-02-2024,T-Shirt,Clothing,2,50
+43,12-02-2024,Jeans,Clothing,3,80
+44,13-02-2024,Jacket,Clothing,4,15
+45,14-02-2024,Cap,Clothing,5,5
+46,15-02-2024,Socks,Clothing,1,60
+47,16-02-2024,Hoodie,Clothing,2,30
+48,17-02-2024,Shorts,Clothing,3,35
+49,18-02-2024,Sandals,Clothing,4,90
+50,19-02-2024,Laptop,Tech,5,20
